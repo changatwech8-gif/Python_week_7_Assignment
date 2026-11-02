@@ -1,0 +1,4 @@
+Python is fun
+Files are useful
+Week 7 is about file handling
+I added this later

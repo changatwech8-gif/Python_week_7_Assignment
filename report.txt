@@ -1,0 +1,5 @@
+LEARNER REPORT
+Total learners: 5
+Passed: 3
+Failed: 2
+Average score: 63.2
